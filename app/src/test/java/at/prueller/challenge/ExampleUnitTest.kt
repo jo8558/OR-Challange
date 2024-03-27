@@ -1,4 +1,4 @@
-package at.prueller.challange
+package at.prueller.challenge
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package at.prueller.challange
+package at.prueller.challenge
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,7 +10,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import at.prueller.challange.ui.theme.ORChallangeTheme
+import at.prueller.challenge.ui.theme.ORChallangeTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

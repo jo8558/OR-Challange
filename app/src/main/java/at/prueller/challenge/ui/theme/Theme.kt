@@ -1,4 +1,4 @@
-package at.prueller.challange.ui.theme
+package at.prueller.challenge.ui.theme
 
 import android.app.Activity
 import android.os.Build
